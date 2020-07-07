@@ -13,4 +13,4 @@ When wanting to enter the workspace for the `mnm` folder, you will need to creat
 
 At that point, you can make any installations within the directory (`pip install ...`), and proceed with anything else
 
-## Make sure you the newly created env to `.gitignore`
+## Make sure you add the newly created environment to `.gitignore`
