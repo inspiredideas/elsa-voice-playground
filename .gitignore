@@ -141,7 +141,7 @@ cython_debug/
 credentials/
 
 # the virtual environment
-figuring-it-out-env/
+mnm-env/
 
 # audio store
 audio-data/
