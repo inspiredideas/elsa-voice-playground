@@ -9,7 +9,7 @@ for different folders. The virtual environment must be named by the name of the 
 
 #### For instance:
 
-When wanting to enter the workspace for the `figuring-it-out` folder, you will need to create and activate the virtual environment name `figuring-it-out-env`. (instructions are in the `figuring-it-out` directory)
+When wanting to enter the workspace for the `mnm` folder, you will need to create and activate the virtual environment name `mnm-env`. (instructions are in the `mnm` directory)
 
 At that point, you can make any installations within the directory (`pip install ...`), and proceed with anything else
 
