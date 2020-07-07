@@ -141,7 +141,7 @@ cython_debug/
 credentials/
 
 # the virtual environment
-elsa-env/
+figuring-it-out-env/
 
 # audio store
 audio-data/

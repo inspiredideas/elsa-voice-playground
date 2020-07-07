@@ -2,21 +2,15 @@
 Repository for working through different stages moving towards the elsa voice development. 
 Ton of testing and work is expected to be put here regarding anything Elsa Voice (during its initial phase).
 
-## Suggested structure
+## [UPDATED] Suggested structure
 
-This is a simple example of how I think we should set up our items within the repo.
-There can be atleast 1 jupyter notebook that has the stuff being developed for. 
+Because we will be working with different packages at different times during development. A suggested way would be by creating different environments
+for different folders. The virtual environment must be named by the name of the folder followed by `-env`. Each folder must have `requirements.txt`.  
 
-Example:
-```
-(in this repo)
-  - audio-preprocessing.ipynb
-  - asr-nn-approach.ipynb
-```
+#### For instance:
 
-The 2 files should have the topmost cell explaining what the notebook is all about
+When wanting to enter the workspace for the `figuring-it-out` folder, you will need to create and activate the virtual environment name `figuring-it-out-env`. (instructions are in the `figuring-it-out` directory)
 
+At that point, you can make any installations within the directory (`pip install ...`), and proceed with anything else
 
-## Go Crazy
-
-That said, you can being by cloning the notebook and start working on the different tasks
+## Make sure you the newly created env to `.gitignore`
