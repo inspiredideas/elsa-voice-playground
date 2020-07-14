@@ -10,11 +10,14 @@ jupyter-core==4.6.3
 python-dateutil==2.8.1
 requests==2.24.0
 tqdm==4.47.0
+pyrebase
 
 # Handy for work
 numpy==1.19.0
 scikit-learn==0.23.1
 scipy==1.5.1
+torch==1.5.1
+torchvision==0.6.1
 
 # For GPU
 numba==0.48
